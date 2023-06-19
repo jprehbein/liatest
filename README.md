@@ -96,7 +96,7 @@ setTimeout(function(e){ eeval(`@input`+"\n") }, 100);
 
 -->
 
-# Regelungstechnik eine Einführung
+# Regelungstechnik keine Einführung
 
                                --{{0}}--
 Auch wenn es sich vielleicht technisch anhört und sehr oft kompliziert
