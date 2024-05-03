@@ -24,6 +24,10 @@ lia-slide .lia-toolbar {
   background: var(--main-bg-color) !important;
 }
 
+.lia-toc .lia-bar {
+  background: var(--main-bg-color) !important;
+}
+
 .lia-btn {
   background: var(--main-bg-color) !important;
 }
