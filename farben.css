@@ -12,17 +12,7 @@ h1.lia-h1 {
   margin-right:auto !important;
 }
 
-.lia-slide .lia-toolbar {
-  background: var(--main-bg-color) !important;
-  background-image: url("https://liascript.github.io/course/logo_192.c4a21617.png") !important;
-  background-size: contain !important;
-  background-repeat: no-repeat !important;
-  background-position: center !important;
-}
 
-.lia-toc .lia-toolbar {
-  background: var(--main-bg-color) !important;
-}
 
 .lia-btn {
   background: var(--main-bg-color) !important;
